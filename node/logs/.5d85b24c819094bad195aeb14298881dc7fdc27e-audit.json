@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\user\\Desktop\\Webs\\node\\logs\\.5d85b24c819094bad195aeb14298881dc7fdc27e-audit.json",
+    "files": [
+        {
+            "date": 1611555056144,
+            "name": "C:\\Users\\user\\Desktop\\Webs\\node\\logs\\2021-01-25.exception.log",
+            "hash": "a14e27ba111f58de7eb013916adb3709"
+        }
+    ]
+}
